@@ -16,6 +16,7 @@ CoreFinCpp adalah aplikasi manajemen keuangan sederhana yang ditulis dalam bahas
 - **CMake** versi 3.10 atau lebih baru
 - **Compiler** yang mendukung C++11
 - **Make** utility
+- **Sistem operasi** `Linux`, `macOS`, atau `Windows(WSL)`
 
 Untuk memeriksa apakah persyaratan minimum sudah dipenuhi, jalankan perintah berikut:
 
