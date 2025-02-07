@@ -1,0 +1,21 @@
+soal = [ 
+     Buat program untuk mencatat pemasukan/pengeluaran keuangan pribadi
+     dengan menu: tambah data, lihat laporan 
+     (persentase % keuangan pemasukan/pengeluaran dan kategori pemasukan/pengeluaran), 
+     bisa login dan sign up, menyimpan data user pada txt untuk password, username, 
+     dan data pemasukan pengeluaran dari user itu file.txt disimpan pada folder data 
+     dengan nama data.txt, mencetak laporan keuangan kedalam file txt berdasarkan 
+     user yang login, dan reset data laporan keuangan pemasukan/pengeluaran, 
+     file txt disimpan kedalam folder reports dan dipisah masing-masing user. 
+     Gunakan array, struct, operasi, modularisasi prosedural, operasi matematika, file I/O, dan perulangan.
+    ];
+
+soalnya ada yang dimodif dikit buat reminder aja
+males ganti ke soal originalnya
+
+build = CMake
+programing_lang = c++
+code_editor = CodeOSS(vscode open source) on arch
+
+
+
