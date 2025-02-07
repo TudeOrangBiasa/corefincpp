@@ -16,7 +16,8 @@ CoreFinCpp adalah aplikasi manajemen keuangan sederhana yang ditulis dalam bahas
 - **CMake** versi 3.10 atau lebih baru
 - **Compiler** yang mendukung C++11
 - **Make** utility
-- **Sistem operasi** `Linux`, `macOS`, atau `Windows(WSL)`
+- **Sistem Operasi** `MacOS` , `Linux` (recommended) , atau `Windows(WSL)`
+- **Support Ansi Color** Terminal 
 
 Untuk memeriksa apakah persyaratan minimum sudah dipenuhi, jalankan perintah berikut:
 
@@ -36,6 +37,11 @@ Untuk memeriksa apakah persyaratan minimum sudah dipenuhi, jalankan perintah ber
 
 ```sh
     make --version
+```
+# Support ANSI color **pastikan teks ini berubah warna menjadi merah**
+
+```sh
+   printf "\e[31mThis text should be red.\e[0m\n"
 ```
 
 Jika semua perintah di atas menunjukkan versi yang sesuai atau lebih baru, maka persyaratan minimum sudah dipenuhi.
