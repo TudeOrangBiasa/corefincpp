@@ -96,6 +96,3 @@ Setelah kompilasi selesai, Anda dapat menjalankan aplikasi dengan perintah berik
 
 Kontribusi sangat diterima! Silakan fork repositori ini dan buat pull request dengan perubahan Anda.
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah lisensi MIT. 
